@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sevenmatt7/fastluminus/issues"
   },
-  "homepage": "https://github.com/sevenmatt7/fastluminus#readme"
+  "homepage": "https://github.com/sevenmatt7/fastluminus#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
 }
