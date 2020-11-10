@@ -1,0 +1,19 @@
+{
+  "name": "fastluminus",
+  "version": "0.1.0",
+  "description": "LumiNUs is so slow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevenmatt7/fastluminus.git"
+  },
+  "author": "Matthew Nathanael Sugiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevenmatt7/fastluminus/issues"
+  },
+  "homepage": "https://github.com/sevenmatt7/fastluminus#readme"
+}
